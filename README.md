@@ -1,11 +1,11 @@
 <img src="https://media4.giphy.com/media/mDLek2Pl1Q9PwH0dXd/200w.webp?cid=ecf05e47e0dmym9eokmh5jmpddqs7iiqp2fjivcscsxscbyg&rid=200w.webp&ct=s">
 ### Hi there I'm Bilol Salimov from Uzbekistan
-🌱 I'm learning frontend developer since 2022 december 1
-🌱 Now I'm learning React Js
-🔭 I’m currently working mentor on Prime Study learning center
+- 🌱 I'm learning frontend developer since 2022 december 1
+- 🌱 Now I'm learning React Js
+- 🔭 I’m currently working mentor on Prime Study learning center
 
 <a href="https://t.me/bilol_salimov">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" width="50">
   My Telegram
 </a>
 <!--
