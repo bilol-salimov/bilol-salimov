@@ -5,7 +5,7 @@
 - 🔭 I’m currently working mentor on Prime Study learning center
 
 <a href="https://t.me/bilol_salimov">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" width="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" width="15">
   My Telegram
 </a>
 <!--
