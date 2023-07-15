@@ -11,7 +11,7 @@
   My Telegram
 </a>
 <a href="https://instagram.com/bilol_sal1mov">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
+  <img  width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
   Instagram</a>
 <!--
 **bilol-salimov/bilol-salimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
