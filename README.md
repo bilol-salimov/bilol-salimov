@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/mDLek2Pl1Q9PwH0dXd/200w.webp?cid=ecf05e47e0dmym9eokmh5jmpddqs7iiqp2fjivcscsxscbyg&rid=200w.webp&ct=s">
+<center><img src="https://media4.giphy.com/media/mDLek2Pl1Q9PwH0dXd/200w.webp?cid=ecf05e47e0dmym9eokmh5jmpddqs7iiqp2fjivcscsxscbyg&rid=200w.webp&ct=s"></center>
 
 ## Hi there I'm Bilol Salimov from Uzbekistan
 
