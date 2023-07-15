@@ -7,11 +7,11 @@
 - 🔭 I’m currently working mentor on Prime Study learning center
 
 <a href="https://t.me/bilol_salimov">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" width="15">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" width="15"> &nbsp;
   My Telegram
-</a>
+</a> <br>
 <a href="https://instagram.com/bilol_sal1mov">
-  <img  width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
+  <img  width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"> &nbsp;
   Instagram</a>
 <!--
 **bilol-salimov/bilol-salimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
